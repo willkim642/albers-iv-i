@@ -6,7 +6,7 @@ let clrs = [
 '#f9ff9e', //middle bottom 3
 '#91009e' //bottom 4
 ]
-
+//for this one I attempted to use very loud colors
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
