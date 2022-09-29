@@ -6,7 +6,7 @@ let clrs = [
 'white', //middle bottom 3
 '#91009e' //bottom 4
 ]
-
+//for this one i tried the opposite of the previous branch, this time using more pastel colors
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
